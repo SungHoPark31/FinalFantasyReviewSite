@@ -8,7 +8,7 @@ Disclaimer:
   This is not an official Final Fantasy website. The intention of this website is to create a fan website that talks about, review, and rank each Final Fantasy game. None of the Intellectual Property and copyright is owned by me. This is just a fan website.
 
 Description: 
-  This is a Final Fantasy website that reviews and ranks each Final Fantasy game. It'll give brief a description of the story of each game, development history, and what I thought of the game. There will be images of gameplay throughout the website. 
+  This is a Final Fantasy website that reviews and ranks each Final Fantasy game. It'll give brief a description of the story of each game, development history, and what I thought of the game. There will be images of gameplay throughout the website. When I describe what I thought of the game, there will be a lot of informal wording. 
   
   On the home page, there will be a large Final Fantasy logo which will animate down, when the user scrolls down. There will be an about paragraph talking about what this website is. There will also be a disclaimer paragraph talking about this not being an official site. On the main body of the website, there will be boxes, with 3 fixed number of columns, but an incremental amount of rows. Each box will have the title of each game and a transparent image of the main characters. There will be animation when the user hovers the mouse over each box using JavaScript. 
   
